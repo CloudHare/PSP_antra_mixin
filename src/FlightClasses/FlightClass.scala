@@ -2,7 +2,7 @@ package FlightClasses
 
 trait FlightClass {
 
-  def calculatePrice(): Double
+  def calculatePriceCoefficient(): Double
   def calculateLuggage(): Int
   def getFlightClass(): String
 }
