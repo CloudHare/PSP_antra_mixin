@@ -1,0 +1,5 @@
+package Destinations
+
+trait BostonDestination {
+
+}
